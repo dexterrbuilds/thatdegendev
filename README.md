@@ -7,13 +7,13 @@ I am Al-ameen, I am a FrontEnd developer and love writing clean and maintainable
 - 👯 I’m looking to collaborate on anything 
 - 🤔 I’m looking for help with anything I can help with
 - 💬 Ask me about anything 
-- 📫 How to reach me: ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&link=https://www.twitter.com/thetechrat/)]
+- 📫 How to reach me: ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&link=https://www.twitter.com/thetechrat/)
 [![Gmail Badge](https://img.shields.io/badge/-alameenthetechrat@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alameenthetechrat@gmail.com)](mailto:alameenthetechrat@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love gaming
 
 [![Linkedin Badge](https://img.shields.io/badge/-thetechrat-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thetechrat/)](https://www.linkedin.com/in/thetechrat/)
-![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&link=https://www.twitter.com/thetechrat/)]
+![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&link=https://www.twitter.com/thetechrat/)
 [![Gmail Badge](https://img.shields.io/badge/-alameenthetechrat@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alameenthetechrat@gmail.com)](mailto:alameenthetechrat@gmail.com)
 
 ## ⚡ Technologies
