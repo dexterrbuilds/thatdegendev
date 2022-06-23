@@ -26,6 +26,9 @@ I am Al-ameen, I am a FrontEnd developer and love writing clean and maintainable
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
+<!-- [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=thetechrat&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
+![](./profile-3d-contrib/profile-south-season-animate.svg)
+
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=thetechrat&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thetechrat&hide=TeX&layout=compact)
