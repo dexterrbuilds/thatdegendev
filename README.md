@@ -2,8 +2,8 @@
 
 I am Al-ameen, I am a FrontEnd developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:.
 
-- 🔭 I’m currently working on myself, CyberDroids and helping newbies transition
-- 🌱 I’m currently learning React and Node.js
+- 🔭 I’m currently working on myself, Building HermesHub and helping newbies transition
+- 🌱 I’m currently learning React Native and TypeScript
 - 👯 I’m looking to collaborate on anything 
 - 🤔 I’m looking for help with anything I can help with
 - 💬 Ask me about anything 
